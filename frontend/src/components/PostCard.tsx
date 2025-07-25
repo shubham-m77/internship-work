@@ -1,4 +1,3 @@
-import React from 'react'
 
 const PostCard = ({ postImage, postType, postTitle, postDescription, postAuthor, authorImg, postViews }: { postImage: string, postType: string, postTitle: string, postDescription: string, postAuthor: string, authorImg: string, postViews: string }) => {
     return (

@@ -1,4 +1,3 @@
-import React from 'react'
 import headerImage from "/header-image.jpg"
 import logo from "/logo.png"
 
