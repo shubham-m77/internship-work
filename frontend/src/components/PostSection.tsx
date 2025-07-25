@@ -1,4 +1,4 @@
-import React from 'react'
+
 import PostCard from './PostCard'
 import postImage1 from "/post-1.jpg"
 import authorImg1 from "/post-1-author.jpg"
